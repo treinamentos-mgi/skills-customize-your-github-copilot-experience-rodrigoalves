@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sentiment-text-classifier",
+      "title": "Classificação de Texto com IA",
+      "description": "Introdução ao aprendizado de máquina: treine um classificador simples de sentimentos em Python.",
+      "path": "assignments/sentiment-text-classifier",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Código inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
