@@ -30,3 +30,5 @@ O programa concluído deve:
 - Continuar a partida enquanto houver letras a descobrir e tentativas restantes.
 - Exibir uma mensagem de vitória quando a palavra for descoberta.
 - Exibir uma mensagem de derrota e revelar a palavra quando as tentativas acabarem.
+
+---
