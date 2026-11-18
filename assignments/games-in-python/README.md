@@ -11,6 +11,8 @@ Pratique strings, loops, condicionais, entrada de dados e seleção aleatória e
 #### Descrição
 Implemente a preparação da partida: escolha uma palavra aleatória da lista fornecida e permita que o jogador descubra suas letras.
 
+Exemplo: para a palavra `python`, após acertar `p` e `t`, exiba `p _ t _ _ _`.
+
 #### Requisitos
 O programa concluído deve:
 
@@ -27,6 +29,7 @@ Complete o loop principal do jogo para atualizar as tentativas e encerrar a part
 O programa concluído deve:
 
 - Definir e atualizar o número de tentativas incorretas restantes.
+- Diminuir as tentativas restantes quando o palpite não estiver na palavra.
 - Continuar a partida enquanto houver letras a descobrir e tentativas restantes.
 - Exibir uma mensagem de vitória quando a palavra for descoberta.
 - Exibir uma mensagem de derrota e revelar a palavra quando as tentativas acabarem.
